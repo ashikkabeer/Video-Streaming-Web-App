@@ -1,7 +1,7 @@
-# Zoom Clone
+# Video-Streaming-Web-App
 
 ## Introduction
-This project is a clone of the Zoom video calling app. It allows users to participate in group video calls, mute their audio, engage in live chatting, and mute their video.
+This project is a video-calling app. It allows users to participate in group video calls, mute their audio, engage in live chatting, and mute their video.
 
 ## Features
 - Group video calling
